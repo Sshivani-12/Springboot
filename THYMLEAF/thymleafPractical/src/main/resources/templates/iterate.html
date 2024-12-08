@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>Example of loop</title>
+</head>
+<body>
+	<h1>loop is here</h1>
+	<h1 th:text="${names }"></h1>
+	<ul>
+	<li th:each="n,status : ${names}">
+	<span th:style="${status.odd} ? 'font-weight:bold':' ' " th:text="${status.index}+' ' +${n}"></span>
+	</li>
+	</ul>
+	<!-- 
+	index,count,size,odd/even,first,last
+	 -->
+</body>
+</html>

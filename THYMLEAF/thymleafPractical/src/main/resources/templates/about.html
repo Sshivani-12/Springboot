@@ -1,0 +1,33 @@
+<!doctype html>
+
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+	<meta charset="UTF-8" />
+	<title>Document</title>
+</head>
+<body>
+	<h1>Shivani</h1>
+	<h2>springbbot</h2>
+	<h1></h1>
+	<h1 th:text="${name}"></h1>
+	<h1 th:text="${ #strings.toUpperCase(name)    }"></h1>
+	<h1 th:text="${ #strings.length(name)    }"></h1>
+	
+	<div th:with="a=1,b=5,n=${name}">
+	<h1 th.text="${a}"></h1>
+	<h1 th:text="'Value of b is'+ ${b} "></h1>
+	</div>
+
+	<h1 th:text="${currentDate}"></h1>
+	
+</body>
+</html>
+
+<!-- 
+Host tag: when we use created fragment in consecutive tages
+Fragment Tag: where we first time define fragment
+insert – inserts content inside the tag
+replace – replaces the current tag with the tag defining the fragment
+include – this is deprecated but it may still appear in a legacy code
+
+ -->

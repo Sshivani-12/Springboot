@@ -1,0 +1,20 @@
+1732551499614	Copy compilation unit
+1732551612317	Copy compilation unit
+1732601095607	Delete element
+1732601099198	Delete element
+1732601162679	Delete element
+1732601179881	Rename type 'EmployeeService'
+1732601201304	Rename type 'EmployeeServiceImpl'
+1732601225662	Delete element
+1732601236264	Rename type 'EmployeeRepository'
+1732601252729	Delete element
+1732601271187	Rename type 'EmployeeController'
+1732601907030	Copy packages
+1732606763266	Rename resource 'customers-form.html'
+1732607698139	Copy package
+1732607703745	Delete element
+1732607706394	Delete element
+1732607711182	Copy compilation unit
+1732607719870	Rename type 'Customer'
+1732616798350	Delete element
+1732616980853	Rename package 'com.luv2code.springboot.cruddemo.dao'

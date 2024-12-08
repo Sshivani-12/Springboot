@@ -1,0 +1,54 @@
+package com.microservice.HotelService.HotelService.service;
+
+import java.util.List;
+import java.util.UUID;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.web.client.ResourceAccessException;
+
+import com.microservice.HotelService.HotelService.entities.Hotel;
+
+@Service
+public class HotelServiceImp implements HotelService {
+
+	@Autowired
+	private HotelRepository hotelRepository;
+
+	@Override
+	public Users saveUSer(Users user) {
+		String random = UUID.randomUUID().toString();
+		user.setUserId(random);
+		return userRepository.save(user);
+	}
+
+	@Override
+	public List<Users> getAllUser() {
+		return userRepository.findAll();
+	}
+
+	@Override
+	public Users getUser(String userId) {
+		return userRepository.findById(userId)
+				.orElseThrow(() -> new ResourceNotFound("user with given ID not found" + userId));
+	}
+
+	@Override
+	public Users deleteUser(String userId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Users updateUser(String userId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Hotel saveUSer(Hotel user) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

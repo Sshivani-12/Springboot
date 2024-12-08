@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>confirm page</title>
+</head>
+<body>
+	the customer is confirmed
+	<span th:text="${customer.firstName + ' ' + customer.lastName}">
+	</span>
+	
+	<br /><br /><br />
+	Value for free passes 
+	<span th:text="${customer.freePasses}"></span>
+	
+	<br /><br /><br />
+	Value for postal code 
+	<span th:text="${customer.freePasses}"></span>
+	
+	<br /><br /><br />
+	Value for course code 
+	<span th:text="${customer.courseCode}"></span>
+	
+</body>
+</html>

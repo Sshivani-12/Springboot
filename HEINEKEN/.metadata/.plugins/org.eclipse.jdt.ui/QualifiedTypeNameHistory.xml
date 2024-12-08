@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="jakarta.persistence.Entity"/>
+    <fullyQualifiedTypeName name="com.example.beerapp.repository.BusinessPartnerRepository"/>
+    <fullyQualifiedTypeName name="com.example.beerapp.service.BusinessPartnerService"/>
+    <fullyQualifiedTypeName name="com.example.beerapp.model.BusinessPartner"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Repository"/>
+    <fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="org.springframework.core.env.Environment"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.businesspartnerweb.businesspartner.exception.UserNotFoundException"/>
+    <fullyQualifiedTypeName name="com.businesspartnerweb.businesspartner.entity.Vendor"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Table"/>
+    <fullyQualifiedTypeName name="jakarta.persistence.Id"/>
+    <fullyQualifiedTypeName name="com.businesspartnerweb.businesspartner.vo.CustomerVo"/>
+    <fullyQualifiedTypeName name="com.businesspartnerweb.businesspartner.service.CustomerService"/>
+    <fullyQualifiedTypeName name="com.businesspartnerweb.businesspartner.entity.Customer"/>
+    <fullyQualifiedTypeName name="com.businesspartnerweb.businesspartner.repository.CustomerRepository"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.NoArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.ToString"/>
+    <fullyQualifiedTypeName name="lombok.Data"/>
+    <fullyQualifiedTypeName name="com.fasterxml.jackson.annotation.JsonIgnore"/>
+    <fullyQualifiedTypeName name="org.apache.el.stream.Optional"/>
+    <fullyQualifiedTypeName name="com.luv2code.springboot.cruddemo.repository.CustomerRepository"/>
+    <fullyQualifiedTypeName name="com.luv2code.springboot.cruddemo.vo.CustomerVo"/>
+    <fullyQualifiedTypeName name="com.luv2code.springboot.cruddemo.exception.CustomerNotFoundException"/>
+    <fullyQualifiedTypeName name="com.luv2code.springboot.cruddemo.entity.Customer"/>
+    <fullyQualifiedTypeName name="java.util.Optional"/>
+    <fullyQualifiedTypeName name="jakarta.validation.constraints.Email"/>
+    <fullyQualifiedTypeName name="jakarta.validation.constraints.NotBlank"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.context.properties.bind.BindException"/>
+    <fullyQualifiedTypeName name="org.springframework.validation.BindException"/>
+</qualifiedTypeNameHistroy>

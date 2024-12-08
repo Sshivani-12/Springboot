@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Retrieve Asset</title>
+</head>
+<body>
+<h1>Retrieve Asset by ID</h1>
+<form th:action="@{/api/assets/{id}(id=${assetId})}" method="get">
+    <input type="text" name="id" placeholder="Enter Asset ID" required />
+    <button type="submit">Retrieve Asset</button>
+</form>
+
+<div th:if="${asset}">
+    <h2>Asset Details:</h2>
+    <p>ID: <span th:text="${asset.id}"></span></p>
+    <p>Name: <span th:text="${asset.name}"></span></p>
+    <p>Description: <span th:text="${asset.description}"></span></p>
+    <p>Tags: <span th:text="${asset.tags}"></span></p>
+</div>
+</body>
+</html>

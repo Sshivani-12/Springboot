@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="E:\Desktop\ALL IN ONE\SPRING BOOT\HEINEKEN"/>
+			<item value="E:\Desktop\ALL IN ONE\SPRING BOOT\HEINEKEN\BusinessPartner"/>
+			<item value="E:\Desktop\ALL IN ONE\SPRING BOOT\MVC"/>
+			<item value="E:\Desktop\ALL IN ONE\SPRING BOOT\HEINEKEN\referencedata"/>
+			<item value="E:\Desktop\ALL IN ONE\SPRING BOOT\HEINEKEN\monitoring"/>
+			<item value="E:\Desktop\ALL IN ONE\SPRING BOOT\HEINEKEN\material"/>
+			<item value="E:\Desktop\ALL IN ONE\SPRING BOOT\HEINEKEN\finance"/>
+			<item value="E:\Desktop\ALL IN ONE\SPRING BOOT\HEINEKEN\configuration"/>
+			<item value="E:\Desktop\ALL IN ONE\SPRING BOOT\HEINEKEN\businesspartner"/>
+			<item value="C:\Users\hp\Downloads\beerapp\beerapp"/>
+			<item value="C:\Users\hp\Downloads\beerapp"/>
+			<item value="E:\Desktop\ALL IN ONE\SPRING BOOT\CURD\CURD3"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

@@ -1,0 +1,3 @@
+INDEX VERSION 1.134
+file:/E:/Desktop/ALL%20IN%20ONE/SPRING%20BOOT/JPA_HIBERNATE/.metadata/.plugins/org.eclipse.jdt.core/1865797976.index
+meta_index

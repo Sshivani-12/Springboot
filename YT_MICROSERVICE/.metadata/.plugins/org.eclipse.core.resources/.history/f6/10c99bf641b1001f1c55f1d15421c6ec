@@ -1,0 +1,8 @@
+package com.miccroservice.user.service.UserService.exception;
+
+import org.springframework.web.bind.annotation.RestControllerAdvice;
+
+@RestControllerAdvice
+public class GlobalExceptionHandler {
+
+}

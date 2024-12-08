@@ -1,0 +1,5 @@
+package com.miccroservice.user.service.UserService.payload;
+
+public class ApiResponse {
+
+}

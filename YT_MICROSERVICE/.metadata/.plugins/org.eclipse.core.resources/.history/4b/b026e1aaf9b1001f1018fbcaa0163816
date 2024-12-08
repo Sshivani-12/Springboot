@@ -1,0 +1,50 @@
+package com.miccroservice.user.service.UserService.service;
+
+import java.util.List;
+import java.util.UUID;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+import org.springframework.web.client.ResourceAccessException;
+
+import com.miccroservice.user.service.UserService.entities.Users;
+import com.miccroservice.user.service.UserService.exception.ResourceNotFound;
+import com.miccroservice.user.service.UserService.repository.UserRepository;
+
+@Service
+public class UserServiceImp implements UserService {
+
+	@Autowired
+	private UserRepository userRepository;
+
+	@Override
+	public Users saveUSer(Users user) {
+		String random = UUID.randomUUID().toString();
+		user.setUserId(random);
+		return userRepository.save(user);
+	}
+
+	@Override
+	public List<Users> getAllUser() {
+		return userRepository.findAll();
+	}
+
+	@Override
+	public Users getUser(String userId) {
+		return userRepository.findById(userId)
+				.orElseThrow(() -> new ResourceNotFound("user with given ID not found" + userId));
+	}
+
+	@Override
+	public Users deleteUser(String userId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Users updateUser(String userId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,8 @@
+com\microservice\HotelService\HotelService\repository\HotelRepository.class
+com\microservice\HotelService\HotelService\service\HotelServiceImp.class
+com\microservice\HotelService\HotelService\controller\HotelController.class
+com\microservice\HotelService\HotelService\exception\GlobalExceptionHandler.class
+com\microservice\HotelService\HotelService\exception\ResourceNotFound.class
+com\microservice\HotelService\HotelService\service\HotelService.class
+com\microservice\HotelService\HotelService\entities\Hotel.class
+com\microservice\HotelService\HotelService\HotelServiceApplication.class

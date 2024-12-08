@@ -1,0 +1,22 @@
+package com.miccroservice.user.service.UserService.entities;
+
+import jakarta.persistence.Column;
+import jakarta.persistence.Entity;
+import jakarta.persistence.Id;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="micro_users")
+public class Users {
+
+	@Id
+	@Column(name ="ID")
+	private String userId;
+	@Column(name ="Name", length = 10)
+	private String name;
+	@Column(name ="EmailId", length = 10)
+	private String email;
+	@Column(name ="About", length = 10)
+	private String about;
+	
+}

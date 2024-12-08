@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0cecbc42-6051-409d-80d5-e874d0d626e1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Security1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Security1/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Security1/src/main/java/com/jpa/test/SpringsecurityApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/Security1/src/main/java/com/jpa/test/SpringsecurityApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Security1/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/Security1/src/main/java/com/luv2code/springboot/cruddemo/service/EmployeeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurityBasics/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurityBasics/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SpringSecurityBasics/src/main/java/com/example/demo/dao/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/SpringSecurityBasics/src/main/java/com/example/demo/dao/StudentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THYMLEAF/ThymleafBasics/src/main/java/com/example/demo/ThymleafBasicsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../THYMLEAF/ThymleafBasics/src/main/java/com/example/demo/ThymleafBasicsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THYMLEAF/ThymleafBasics/src/main/java/com/example/demo/controller/DemoController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THYMLEAF/ThymleafBasics/src/main/java/com/example/demo/controller/HelloWorldController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THYMLEAF/ThymleafBasics/src/main/java/com/example/demo/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../THYMLEAF/ThymleafBasics/src/main/java/com/example/demo/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THYMLEAF/ThymleafBasics/src/main/resources/templates/helloworld-form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THYMLEAF/ThymleafBasics/src/main/resources/templates/helloworld.backup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THYMLEAF/ThymleafBasics/src/main/resources/templates/helloworld.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THYMLEAF/ThymleafBasics/src/main/resources/templates/student-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/../THYMLEAF/ThymleafBasics/src/main/resources/templates/student-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THYMLEAF/thymleafPractical/src/main/java/com/jpa/test/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../THYMLEAF/thymleafPractical/src/main/java/com/jpa/test/controller/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THYMLEAF/thymleafPractical/src/main/resources/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/../THYMLEAF/thymleafPractical/src/main/resources/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../THYMLEAF/thymleafPractical/src/main/resources/templates/service.html" beforeDir="false" afterPath="$PROJECT_DIR$/../THYMLEAF/thymleafPractical/src/main/resources/templates/service.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VALIDATIONS/springvalidation/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../VALIDATIONS/springvalidation/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../VALIDATIONS/springvalidation/src/main/java/com/jpa/test/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../VALIDATIONS/springvalidation/src/main/java/com/jpa/test/controller/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YT PROJECT" beforeDir="false" afterPath="$PROJECT_DIR$/../YT PROJECT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../YT PROJECT - Copy" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2gDgHn20kUp0wf2M0mFiv72TZJv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Desktop/ALL IN ONE/SPRING BOOT/SPRING_SECURITY&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cecbc42-6051-409d-80d5-e874d0d626e1" name="Changes" comment="" />
+      <created>1715237478328</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715237478328</updated>
+    </task>
+    <servers />
+  </component>
+</project>

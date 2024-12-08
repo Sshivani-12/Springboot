@@ -1,0 +1,5 @@
+package com.miccroservice.user.service.UserService.service;
+
+public class UserService {
+
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>this is for include</h1>
+	//footer is name of file and footer1(&{title},&{subtitle} is name of fragment along with parameters
+	<footer id="hostTag" th:replace="footer::footer1(&{title},&{subtitle})">
+	
+	<!-- 
+	<footer id="hostTag" th:include="footer::footer1">
+	<footer id="hostTag" th:replace="footer::footer1('this is title','this is subtitle')">
+	
+	 -->
+	</footer>
+	<!--  -->
+</body>
+</html>

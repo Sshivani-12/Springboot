@@ -1,0 +1,7 @@
+com\luv2code\springboot\cruddemo\AssetRepository.class
+com\luv2code\springboot\cruddemo\AssetController.class
+com\luv2code\springboot\cruddemo\AssetService.class
+com\luv2code\springboot\cruddemo\Asset.class
+com\luv2code\springboot\cruddemo\CruddemoApplication.class
+com\luv2code\springboot\cruddemo\FileStorageService.class
+com\luv2code\springboot\cruddemo\SecurityConfig.class

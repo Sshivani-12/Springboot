@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>conditions</title>
+</head>
+<body>
+	<h1>condition </h1>
+	
+	<h1>User is <span th:text="${isActive}? 'ACTIVE':'NOT ACTIVE'"></span></h1>
+<h1 th:if="${gender}=='M'">Male</h1>
+<h1 th:unless="${gender}=='M'">Female</h1> 
+<!-- 
+1.check if condition is satified and if so Male is printed 
+2.check if condition is not satified and if so Female is printed
+ -->
+
+
+
+<div th:switch ="${#lists.size(mylist)}">
+
+<h1 th:case ="'0'">list contain 0</h1>
+<h1 th:case ="'1'">list contain 1</h1>
+<h1 th:case ="'*'">list contain more than one element</h1>
+
+
+
+</div>
+</body>
+</html>
+
+<!-- 
+This is for Elvis
+if unless
+
+we can render on h1,spam,div
+ -->

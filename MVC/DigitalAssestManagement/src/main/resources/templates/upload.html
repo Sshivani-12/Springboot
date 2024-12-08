@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Upload Asset</title>
+</head>
+<body>
+<h1>Upload Asset</h1>
+<form th:action="@{/api/assets/upload}" method="post" enctype="multipart/form-data">
+    <input type="file" name="file" required />
+    <input type="text" name="name" placeholder="Name" required />
+    <input type="text" name="description" placeholder="Description" required />
+    <input type="text" name="tags" placeholder="Tags (comma separated)" required />
+    <button type="submit">Upload Asset</button>
+</form>
+</body>
+</html>
