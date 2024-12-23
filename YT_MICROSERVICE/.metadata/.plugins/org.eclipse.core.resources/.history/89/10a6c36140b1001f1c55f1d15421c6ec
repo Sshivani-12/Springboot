@@ -1,8 +1,0 @@
-package com.miccroservice.user.service.UserService.service;
-
-import com.miccroservice.user.service.UserService.entities.Users;
-
-public interface UserService {
-
-	Users saveUSer(Users user);
-}

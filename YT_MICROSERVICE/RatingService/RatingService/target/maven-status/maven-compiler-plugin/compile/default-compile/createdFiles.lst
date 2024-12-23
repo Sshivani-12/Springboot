@@ -1,6 +1,0 @@
-com\microservices\RatingService\entities\Rating.class
-com\microservices\RatingService\service\RatingServiceImp.class
-com\microservices\RatingService\controller\RatingController.class
-com\microservices\RatingService\repository\RatingRepository.class
-com\microservices\RatingService\RatingServiceApplication.class
-com\microservices\RatingService\service\RatingService.class

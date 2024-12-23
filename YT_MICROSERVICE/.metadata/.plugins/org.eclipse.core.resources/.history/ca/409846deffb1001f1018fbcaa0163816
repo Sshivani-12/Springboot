@@ -1,8 +1,0 @@
-eureka:
-  instance:
-    hostname: localhost
-    
-#added to not allow this service to registry to servicereg
-  client:
-    register-with-eureka: false
-    fetch-registry: false

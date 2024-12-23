@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.microservice.ServiceRegistery.ServiceRegisteryApplicationTests
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 45.43 s -- in com.microservice.ServiceRegistery.ServiceRegisteryApplicationTests

@@ -1,5 +1,0 @@
-package com.miccroservice.user.service.UserService.repository;
-
-public class UserRepository {
-
-}

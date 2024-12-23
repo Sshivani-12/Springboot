@@ -1,5 +1,0 @@
-package com.microservices.RatingService.controller;
-
-public class RatingController {
-
-}

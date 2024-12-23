@@ -1,5 +1,0 @@
-package com.microservice.HotelService.HotelService.controller;
-
-public class HotelController {
-
-}
